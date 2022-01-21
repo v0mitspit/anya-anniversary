@@ -1,0 +1,40 @@
+
+body {
+    
+    background: pink;
+}
+
+h2{
+    text-align: center
+}
+
+.anya{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    width: 50%;
+}
+
+
+h3{
+    text-align: center
+}
+
+.bgallery {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 7%;
+}
+
+.bpoem {
+    text-align: center;
+}
+
+.poem {
+    position: absolute;
+    top: 7%;
+}
